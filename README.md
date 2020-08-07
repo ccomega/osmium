@@ -11,3 +11,4 @@ Osmium is developed by Omegacoustics and is useful for a lot of stuff'
 Be aware: currently in heavy development
 # packium-packages
 # packium-packages
+# osmium
